@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>Libro de Consultas y Reclamos</fullName>
+        <default>false</default>
+        <label>Libro de Consultas y Reclamos</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Correo físico</fullName>
+        <default>false</default>
+        <label>Correo físico</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Formulario físico</fullName>
+        <default>false</default>
+        <label>Formulario físico</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Phone</fullName>
+        <default>false</default>
+        <label>Canal Telefónico (Contact Center)</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Colaborador ACHS</fullName>
+        <default>false</default>
+        <label>Colaborador ACHS</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Email</fullName>
+        <default>false</default>
+        <label>Correo Electrónico</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Presencial</fullName>
+        <default>false</default>
+        <label>Presencial</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Web</fullName>
+        <default>false</default>
+        <label>Página Web</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Correo electrónico (genéricos ACHS)</fullName>
+        <default>false</default>
+        <label>Correo electrónico (genéricos ACHS)</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Otro</fullName>
+        <default>false</default>
+        <label>Otro</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Oficio</fullName>
+        <default>false</default>
+        <label>Oficio</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Resolución</fullName>
+        <default>false</default>
+        <label>Resolución</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Memorándum</fullName>
+        <default>false</default>
+        <label>Memorándum</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Circular</fullName>
+        <default>false</default>
+        <label>Circular</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Twitter</fullName>
+        <default>false</default>
+        <label>Twitter</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Facebook</fullName>
+        <default>false</default>
+        <label>Facebook</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Instagram</fullName>
+        <default>false</default>
+        <label>Instagram</label>
+    </standardValue>
+    <standardValue>
+        <fullName>YouTube</fullName>
+        <default>false</default>
+        <label>YouTube</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Plataforma PAE SUSESO</fullName>
+        <default>false</default>
+        <label>Plataforma PAE SUSESO</label>
+    </standardValue>
+</StandardValueSet>

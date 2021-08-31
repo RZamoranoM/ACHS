@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>1</fullName>
+        <default>false</default>
+        <label>Condonación de Multas</label>
+    </standardValue>
+    <standardValue>
+        <fullName>2</fullName>
+        <default>false</default>
+        <label>Consulta</label>
+    </standardValue>
+    <standardValue>
+        <fullName>3</fullName>
+        <default>false</default>
+        <label>Devolución de Cotizaciones</label>
+    </standardValue>
+    <standardValue>
+        <fullName>4</fullName>
+        <default>false</default>
+        <label>Felicitación</label>
+    </standardValue>
+    <standardValue>
+        <fullName>5</fullName>
+        <default>false</default>
+        <label>Reclamo</label>
+    </standardValue>
+    <standardValue>
+        <fullName>6</fullName>
+        <default>false</default>
+        <label>Solicitud</label>
+    </standardValue>
+</StandardValueSet>
